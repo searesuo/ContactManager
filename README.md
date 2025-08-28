@@ -28,6 +28,13 @@ Logging module (for debugging and status messages)
 ### 🧪 Running Unit Tests
 
 Make sure you have pytest installed:
+
+
 <img width="548" height="111" alt="image" src="https://github.com/user-attachments/assets/7660ed79-429d-4951-99b2-35efa73b39ba" />
 Run all tests:
+
+
 <img width="465" height="102" alt="image" src="https://github.com/user-attachments/assets/5b1184fe-dc4e-40d5-80d4-fc62fc9ea731" />
+### 📖 Usage Example
+
+<img width="591" height="459" alt="image" src="https://github.com/user-attachments/assets/4e31bb19-ac85-48b1-8a63-4ec9d869f299" />
