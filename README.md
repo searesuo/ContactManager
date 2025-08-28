@@ -3,7 +3,7 @@
 
 A simple contact management system built with Python. This project demonstrates basic file handling, data validation, and object-oriented programming concepts.
 
-Features
+### Features
 
 ➕ Add contacts
 
@@ -15,7 +15,7 @@ Features
 
 📋 Display all contacts
 
-Technologies Used
+### Technologies Used
 
 Python 3
 
