@@ -1,4 +1,5 @@
 # ContactManager
+
 ## Contact Management System
 
 A simple contact management system built with Python. This project demonstrates basic file handling, data validation, and object-oriented programming concepts.
