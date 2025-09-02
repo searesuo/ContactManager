@@ -1,5 +1,8 @@
 # ContactManager
 
+<img width="800" height="388" alt="image" src="https://github.com/user-attachments/assets/a06bd9e8-93ed-4f99-a8e9-73f053a02be0" />
+
+
 ## Contact Management System
 
 A simple contact management system built with Python. This project demonstrates basic file handling, data validation, and object-oriented programming concepts.
